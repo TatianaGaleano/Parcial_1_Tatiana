@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- Archivo creado  - miércoles-octubre-11-2017   
+-- Archivo creado  - miÃ©rcoles-octubre-11-2017   
 --------------------------------------------------------
 --------------------------------------------------------
 --  DDL for Table ANSWERS
@@ -417,6 +417,13 @@ Insert into PRODUCTS (ID,NAME,REFERENCE,PRICE,CATEGORY_ID) values ('5592','Vesti
 Insert into PRODUCTS (ID,NAME,REFERENCE,PRICE,CATEGORY_ID) values ('5594','gravida','9A6B8E06-FD7E-B442-CDBC-C45408B1534A','457','10');
 Insert into PRODUCTS (ID,NAME,REFERENCE,PRICE,CATEGORY_ID) values ('5596','vehicula','8D95CB33-CC0D-7C75-D9EF-00C32A594E18','397','6');
 Insert into PRODUCTS (ID,NAME,REFERENCE,PRICE,CATEGORY_ID) values ('5598','libero. Donec consectetuer','E499DA6F-1795-4DBA-0826-A38E0EA9216F','605','11');
+
+INSERT INTO ANSWERS VALUES (1, 'QUESTION 1', '1');
+INSERT INTO ANSWERS VALUES (2, 'QUESTION 2', '3');
+INSERT INTO ANSWERS VALUES (3, 'QUESTION 3', '8F03A38B-E011-E814-1A68-145FF0C9F7BD');
+INSERT INTO ANSWERS VALUES (4, 'QUESTION 4', 'congue turpis. In');
+INSERT INTO ANSWERS VALUES (5, 'QUESTION 5', 'running wear');
+
 --------------------------------------------------------
 --  Constraints for Table ANSWERS
 --------------------------------------------------------
